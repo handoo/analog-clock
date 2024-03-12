@@ -1,0 +1,18 @@
+* {
+  min-width: 0;
+  font: inherit;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #202020;
+  min-height: 100vh;
+}
+
+#root {
+  text-align: center;
+}

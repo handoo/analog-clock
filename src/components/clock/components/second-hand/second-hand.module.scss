@@ -1,0 +1,12 @@
+.hand {
+  width: 2px;
+  background: #CDDC39;
+  height: 40%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50%;
+  transform-origin: 50% 0;
+  animation: all .2s ease;
+  border-radius: 10px;
+}
